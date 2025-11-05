@@ -25,3 +25,8 @@ public class AddNumbers {
     }
 }
 
+    int num1 = 15;
+    int num2 = 5;
+    int difference = num1 - num2; // difference will be 10
+    System.out.println("Difference: " + difference);
+
